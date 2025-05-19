@@ -1,0 +1,4 @@
+Sitemap: http://enatale.name/sitemap.xml
+
+User-agent: *
+Disallow:
