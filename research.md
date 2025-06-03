@@ -32,7 +32,7 @@ tags = ["syntax", "code"]
 
 ### Machine Learning
 
-Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH], [SLTH], [RSS], [SSLT]) and on other problems in machine learning ([HID], [CAID], [SCHED]).
+Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH], [SLTH], [RSS], [SSLT]) and on other problems in machine learning ([HID], [CAID], [SCHED], [GENE]).
 
 From 2021 to 2024, I've also been contributing to [integrated assessment modeling software in Julia](https://github.com/worlddynamics) ([JOSS], [JIE]).
 
@@ -85,6 +85,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [CoG]: https://gitlab.com/steven3k/complexity-of-games
 [CompDyn]: https://tel.archives-ouvertes.fr/tel-02002681
 [ConsBroad]: https://drops.dagstuhl.de/opus/volltexte/2020/11727/
+[GENE]: https://hal.science/hal-05078291
 [DistCom]: https://www.sciencedirect.com/science/article/pii/S0304397514009402?via%3Dihub
 [DistFlow]: https://dl.acm.org/doi/10.5555/3237383.3237935
 [DistSparse]: https://epubs.siam.org/doi/10.1137/1.9781611975994.80
