@@ -17,6 +17,7 @@ tags = ["syntax", "code"]
 
 ### Post-docs & Research Engineers
 
+* [Hamidou Diallo](), Research Engineer (INSA Lyon, with Olivier Simonin), 2025-07 — 2027-06.
 * [Damien Rivet](), Post-doc (INRIA UCA), 2022-07 — 2023-06.
 * [Paulo Bruno Serafim](https://paulobruno.github.io/), Research Engineer (INRIA UCA), 2022-04 — 2022-09.
 * [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), Post-doc (I3S), 2019-11 — 2020-10.
