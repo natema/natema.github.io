@@ -25,7 +25,7 @@ tags = ["syntax", "code"]
 ### PhD Students
 
 * [Carlo Castoldi](https://carlo-castoldi.github.io/) (UCA), 2025-11 — 2028-11 (expected).
-* [Aakash Kumar](https://aakashkumar.github.io/) (UCA), 2025-09 — 2028-08 (expected).
+* [Aakash Kumar](https://aakash-verse.github.io/) (UCA), 2025-09 — 2028-08 (expected).
 * [Pierre Pereira](https://pierrot-lc.github.io/website/) (UCA), 2024-10 — 2027-09 (expected).
 * [Niccolò D'Archivio](https://sites.google.com/view/niccolo-darchivio/home) (UCA), 2024-04 — 2027-03 (expected).
 * [Davide Ferre](https://dferre97.github.io/) (UCA), 2024-01 — 2026-12 (expected).
