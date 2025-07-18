@@ -233,6 +233,8 @@ Fellow of the [Simons Institute for the Theory of Computing (U.C. Berkeley)][SIM
 
 ## Education
 
+* **2025**. _Abilitazione Scientifica Nazionale, settore 01/B1 Informatica, I Fascia_: I obtained the Italian qualification as full professor in Informatics.
+
 * **2024**. Habilitation à Diriger des Recherches (HDR) in Computer Science at Université Côte d'Azur.
 
 * **2022**. _Abilitazione Scientifica Nazionale, settore 01/B1 Informatica, II Fascia_: I obtained the Italian qualification as associate professor in Informatics.
