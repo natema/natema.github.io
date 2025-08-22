@@ -131,6 +131,7 @@ tags = ["syntax", "code"]
 
 AC = Area Chair, PC = Program Committee, CR = Conference Reviewer.
 
+- PC for [AAAI'26](https://aaai.org/Conferences/AAAI-26/),
 - CR for [NeurIPS'25](https://neurips.cc/Conferences/2025),
 - AC for [UAI'25](https://www.auai.org/uai2025/),
 - CR for [ICML'25](https://icml.cc/Conferences/2025),
