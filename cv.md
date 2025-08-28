@@ -29,6 +29,7 @@ tags = ["syntax", "code"]
 
 ### Interns and undergraduate students
 
+* Davide Toniatti (Università di Roma Tor Vergata), MSc thesis supervision. 2025. Project: "Additive vs Multiplicative Weighted Bloom Filters".
 * Matteo Stromieri (Università di Roma Tor Vergata), Math-Vives PEPR internship. 2025-04 — 2025-09. Project: "Mathematical Approaches to Comparative Evolutionary Neuroscience".
 * Aakash Kumar (IISER Kolkata), remote MSc thesis supervision. 2024-08 — 2025-05. Project: "Phase transitions in Neural Networks".
 * Pierre Pereira, INRIA, pre-doctoral student, 2024-05 - 2024-08.
