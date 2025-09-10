@@ -11,21 +11,21 @@ tags = ["syntax", "code"]
 
 ### Post-docs & Research Engineers
 
-* [Hamidou Diallo](), Research Engineer (INSA Lyon, with Olivier Simonin), 2025-07 — 2027-06.
-* [Damien Rivet](), Post-doc (INRIA UCA), 2022-07 — 2023-06.
-* [Paulo Bruno Serafim](https://paulobruno.github.io/), Research Engineer (INRIA UCA), 2022-04 — 2022-09.
-* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), Post-doc (I3S), 2019-11 — 2020-10.
+* [Hamidou Diallo](), Research Engineer (INSA Lyon, with Olivier Simonin), 2025 — 2027.
+* [Damien Rivet](), Post-doc (INRIA UCA), 2022 — 2023.
+* [Paulo Bruno Serafim](https://paulobruno.github.io/), Research Engineer (INRIA UCA), 2022.
+* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), Post-doc (I3S), 2019 — 2020.
 
 ### PhD Students
 
-* [Carlo Castoldi](https://carlo-castoldi.github.io/) (UCA), 2025-11 - 2028-11 (expected).
-* [Aakash Kumar](https://aakash-verse.github.io/) (UCA), 2025-09 - 2028-08 (expected).
-* [Pierre Pereira](https://pierrot-lc.github.io/website/) (UCA), 2024-10 - 2027-09 (expected).
-* [Niccolò D'Archivio](https://sites.google.com/view/niccolo-darchivio/home) (UCA), 2024-04 — 2027-03 (expected).
-* [Davide Ferre](https://dferre97.github.io/) (UCA), 2024-01 — 2026-12 (expected).
-* [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/) (UCA), 2020-10 — 2023-09.
-* [Francesco D'Amore](https://fdamore95.github.io/) (UCA), 2019-10 — 2022-10.
-* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/) (Gran Sasso Science Institute), 2016-10 — 2019-12.
+* [Carlo Castoldi](https://carlo-castoldi.github.io/) (UCA), 2025 — 2028 (expected).
+* [Aakash Kumar](https://aakash-verse.github.io/) (UCA), 2025 — 2028 (expected).
+* [Pierre Pereira](https://pierrot-lc.github.io/website/) (UCA), 2024 — 2027 (expected).
+* [Niccolò D'Archivio](https://sites.google.com/view/niccolo-darchivio/home) (UCA), 2024 — 2027 (expected).
+* [Davide Ferre](https://dferre97.github.io/) (UCA), 2024 — 2026 (expected).
+* [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/) (UCA), 2020 — 2023.
+* [Francesco D'Amore](https://fdamore95.github.io/) (UCA), 2019 — 2022.
+* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/) (Gran Sasso Science Institute), 2016 — 2019.
 
 ### Interns and undergraduate students
 
