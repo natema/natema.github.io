@@ -15,6 +15,7 @@
 I am a [CNRS] researcher (HDR) at [Université
 Côte d’Azur][UCA], a [3IA Côte d'Azur][3IA] Chair, a member of the [COATI
 Project-Team][COATI] between [INRIA] and [I3S][I3S], and the coordinator of the [ELECTRON Associated INRIA Team](https://team.inria.fr/electron/) with King's College London.
+Currently, I am a long-term visitor in Prof. Petra Mutzel's group at [University of Bonn](https://www.informatik.uni-bonn.de/en/).
 
 ~~~
 <div itemscope itemtype="https://schema.org/Person"   style="display: flex; align-items: center;"   ><a itemprop="sameAs" content="https://orcid.org/0000-0002-8755-3892" href="https://orcid.org/0000-0002-8755-3892" target="orcid.widget" rel="me noopener noreferrer" ><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.5em; float: left;" alt="ORCID iD icon">https://orcid.org/0000-0002-8755-3892</a></div>

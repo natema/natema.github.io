@@ -205,31 +205,15 @@ Together with [Stefano Leucci](https://www.stefanoleucci.com/) and [Luciano Gual
 
 ## Positions
 
-### 2024 - 2027
-
-[3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) Chair.
-
-### 2019 - ...
-
-[CNRS] researcher (Chargé de Recherche) at the [Université Côte d’Azur][UCA], in the joint [Project-Team COATI][COATI] between [INRIA] and [I3S][I3S].
-
-### March 2025 - May 2025
-
-Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english).
-
-### May 2022 - July 2022
-
-Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english).
-
-### November 2019 - January 2020
-
-Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english).
-
-### 2016 - 2018
-
-Postdoc at [Max Planck Institute for Informatics][MPII] in Kurt Mehlhorn's Algorithms&Complexity Group.
-
-### January 2018 - May 2018
+- 2024-2027. [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) Chair.
+- 2025-2026. Visiting Professor in Prof. Petra Mutzel's group at [University of Bonn](https://www.uni-bonn.de/en) (long term).
+- 2025. Visiting Scientist in Murata's lab at [Institute of Science Tokyo](https://www.isct.ac.jp/en) (2 months).
+- 2025. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
+- 2022-2022. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
+- 2019-2020. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
+- Since 2019. [CNRS] researcher (Chargé de Recherche) at the [Université Côte d’Azur][UCA], in the joint [Project-Team COATI][COATI] between [INRIA] and [I3S][I3S].
+- 2016-2018. Postdoc at [Max Planck Institute for Informatics][MPII] in Kurt Mehlhorn's Algorithms&Complexity Group.
+- 2018. Fellow of the [Simons Institute for the Theory of Computing (U.C. Berkeley)][SIMONS] in the *Brain and Computation* Program.
 
 Fellow of the [Simons Institute for the Theory of Computing (U.C. Berkeley)][SIMONS] in the *Brain and Computation* Program.
 
@@ -270,16 +254,6 @@ The following list is not exhaustive after September 2015 (and not updated anymo
 * **August 2011**. AILA Summer School in Logic, organized by the [Associazione Italiana di Logica e sue Applicazioni](http://www.ailalogica.it/).
 
 * **September 2010**. The Rome-Moscow School of Matrix Methods and Applied Linear Algebra, organized by [Moscow State University](https://en.wikipedia.org/wiki/Moscow_State_University), [Institute of Numerical Mathematics INM-RAS](https://www.inm.ras.ru/en/) and Università di Roma Tor Vergata
-
-
-## Other Activities
-
-### Accepted solutions to mathematical problem solving journals
-
-* **Mathematical Excalibur**: 341 p.s. (published solution), 356 p.s., 364 p.s., 370 p.s.
-* **Mathematical Reflections**: u166 p.s., u172 p.s., u175 p.s., u179 p.s., u182 p.s., u185 p.s., u195 p.s.
-* **Mathematics Magazine**: m1846. *Ponder This* - IBM Research: December 2012, August 2013.
-
 
 
 [SIMONS]: https://simons.berkeley.edu/
