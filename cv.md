@@ -205,15 +205,15 @@ Together with [Stefano Leucci](https://www.stefanoleucci.com/) and [Luciano Gual
 
 ## Positions
 
-- 2024-2027. [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) Chair.
-- 2025-2026. Visiting Professor in Prof. Petra Mutzel's group at [University of Bonn](https://www.uni-bonn.de/en) (long term).
-- 2025. Visiting Scientist in Murata's lab at [Institute of Science Tokyo](https://www.isct.ac.jp/en) (2 months).
-- 2025. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
-- 2022-2022. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
-- 2019-2020. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
+- 2024-27. [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) Chair.
+- 2025-26. Visiting Professor in Prof. Petra Mutzel's group at [University of Bonn](https://www.uni-bonn.de/en) (long term).
+- 2025\. Visiting Scientist in Murata's lab at [Institute of Science Tokyo](https://www.isct.ac.jp/en) (2 months).
+- 2025\. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
+- 2022-22. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
+- 2019-20. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
 - Since 2019. [CNRS] researcher (Chargé de Recherche) at the [Université Côte d’Azur][UCA], in the joint [Project-Team COATI][COATI] between [INRIA] and [I3S][I3S].
-- 2016-2018. Postdoc at [Max Planck Institute for Informatics][MPII] in Kurt Mehlhorn's Algorithms&Complexity Group.
-- 2018. Fellow of the [Simons Institute for the Theory of Computing (U.C. Berkeley)][SIMONS] in the *Brain and Computation* Program.
+- 2016-18. Postdoc at [Max Planck Institute for Informatics][MPII] in Kurt Mehlhorn's Algorithms&Complexity Group.
+- 2018\. Fellow of the [Simons Institute for the Theory of Computing (U.C. Berkeley)][SIMONS] in the *Brain and Computation* Program.
 
 Fellow of the [Simons Institute for the Theory of Computing (U.C. Berkeley)][SIMONS] in the *Brain and Computation* Program.
 
