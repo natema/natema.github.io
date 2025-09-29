@@ -233,29 +233,6 @@ Fellow of the [Simons Institute for the Theory of Computing (U.C. Berkeley)][SIM
 * **2008 - 2011**.  BSc. in Mathematics at Università di Roma Tor Vergata.
 
 
-## Schools & Workshops
-
-The following list is not exhaustive after September 2015 (and not updated anymore after October 2017).
-
-* **October 2017**. COST Action CA15140 *Improving Applicability of Nature-Inspired Optimisation by Joining Theory and Practice ([ImAppNIO](https://imappnio.dcs.aber.ac.uk/cost-training-school))*, at [UPMC](https://en.wikipedia.org/wiki/Pierre_and_Marie_Curie_University).
-
-* **July 2016**. 4rd Workshop on Biological Distributed Algorithms, in Chicago (co-located with PODC'16).
-
-* **September 2015**. Cargèse fall school on random graphs, at [IESC](http://univ-cotedazur.fr/laboratories/iesc)
-
-* **August 2015**. 3rd Workshop on Biological Distributed Algorithms, at [MIT](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology).
-
-* **April 2015**. Workshop *Random Walks on Random Graphs and Applications*, at [EURANDOM](https://en.wikipedia.org/wiki/European_Institute_for_Statistics,_Probability,_Stochastic_Operations_Research_and_its_Applications).
-
-* **August 2014**. Summer School on Randomized Techniques for Combinatorial Algorithms, at [Simon Fraser University](https://en.wikipedia.org/wiki/Simon_Fraser_University).
-
-* **September 2013**. Fall School *Phase Transition in Random Discrete Structures* at [Graz University of Technology](https://en.wikipedia.org/wiki/Graz_University_of_Technology).
-
-* **August 2011**. AILA Summer School in Logic, organized by the [Associazione Italiana di Logica e sue Applicazioni](http://www.ailalogica.it/).
-
-* **September 2010**. The Rome-Moscow School of Matrix Methods and Applied Linear Algebra, organized by [Moscow State University](https://en.wikipedia.org/wiki/Moscow_State_University), [Institute of Numerical Mathematics INM-RAS](https://www.inm.ras.ru/en/) and Università di Roma Tor Vergata
-
-
 [SIMONS]: https://simons.berkeley.edu/
 [MPII]: https://www.mpi-inf.mpg.de/departments/algorithms-complexity/
 [CNRS]: https://www.cnrs.fr
