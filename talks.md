@@ -8,6 +8,10 @@ tags = ["syntax", "code"]
 
 # Talks
 
+## 2025
+
+* *From Theoretical Computer Science to Biology and Neuroscience*, French-Indian Campus meeting, IIIT Delhi.
+
 ## 2024
 
 * *Dynamics and Community Structure in Networks*, Computational Aspects of Complex Networks 2024, University of Rome Tor Vergata. [Slides](/static/docs/talks-2024/2024-12_cacn_tor_vergata	.pdf)
