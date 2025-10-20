@@ -18,6 +18,7 @@ tags = ["syntax", "code"]
 
 ### PhD Students
 
+* [Matteo Stromieri](https://matteostromieri.github.io/) (UCA), 2025 — 2028 (expected).
 * [Carlo Castoldi](https://carlo-castoldi.github.io/) (UCA), 2025 — 2028 (expected).
 * [Aakash Kumar](https://aakash-verse.github.io/) (UCA), 2025 — 2028 (expected).
 * [Pierre Pereira](https://pierrot-lc.github.io/website/) (UCA), 2024 — 2027 (expected).
@@ -132,6 +133,7 @@ tags = ["syntax", "code"]
 
 AC = Area Chair, PC = Program Committee, CR = Conference Reviewer.
 
+- CR for [ICLR'26](https://iclr.cc/Conferences/2026),
 - PC for [AAAI'26](https://aaai.org/Conferences/AAAI-26/),
 - CR for [NeurIPS'25](https://neurips.cc/Conferences/2025),
 - AC for [UAI'25](https://www.auai.org/uai2025/),

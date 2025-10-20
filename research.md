@@ -24,6 +24,7 @@ tags = ["syntax", "code"]
 
 ### PhD Students
 
+* [Matteo Stromieri](https://matteostromieri.github.io/) (UCA), 2025 — 2028 (expected).
 * [Carlo Castoldi](https://carlo-castoldi.github.io/) (UCA), 2025 — 2028 (expected).
 * [Aakash Kumar](https://aakash-verse.github.io/) (UCA), 2025 — 2028 (expected).
 * [Pierre Pereira](https://pierrot-lc.github.io/website/) (UCA), 2024 — 2027 (expected).
