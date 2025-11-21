@@ -20,9 +20,9 @@ tags = ["syntax", "code"]
 ### PhD Students
 
 * [Matteo Stromieri](https://matteostromieri.github.io/) (UCA), 2025 — 2028 (expected).
-* [Carlo Castoldi](https://carlo-castoldi.github.io/) (UCA), 2025 — 2028 (expected).
+* [Carlo Castoldi]() (UCA), 2025 — 2028 (expected).
 * [Aakash Kumar](https://aakash-verse.github.io/) (UCA), 2025 — 2028 (expected).
-* [Pierre Pereira](https://pierrot-lc.github.io/website/) (UCA), 2024 — 2027 (expected).
+* [Pierre Pereira](https://pierrot-lc.dev/) (UCA), 2024 — 2027 (expected).
 * [Niccolò D'Archivio](https://sites.google.com/view/niccolo-darchivio/home) (UCA), 2024 — 2027 (expected).
 * [Davide Ferre](https://dferre97.github.io/) (UCA), 2024 — 2026 (expected).
 * [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/) (UCA), 2020 — 2023.
