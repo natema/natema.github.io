@@ -31,21 +31,21 @@ tags = ["syntax", "code"]
 
 ### Interns and undergraduate students
 
-15. Davide Toniatti (Università di Roma Tor Vergata), MSc thesis supervision. 2025. Project: "Additive vs Multiplicative Weighted Bloom Filters".
-14. Matteo Stromieri (Università di Roma Tor Vergata), Math-Vives PEPR internship. 2025-04 — 2025-09. Project: "Mathematical Approaches to Comparative Evolutionary Neuroscience".
-13. Aakash Kumar (IISER Kolkata), remote MSc thesis supervision. 2024-08 — 2025-05. Project: "Phase transitions in Neural Networks".
-12. Pierre Pereira, INRIA, pre-doctoral student, 2024-05 - 2024-08.
-11. Maël Clergue (ENS Lyon), intern in the COATI Team. 2023-06 — 2023-08. Project: "Scientific Machine Learning for World Dynamics Modeling".
-10. Aurora Rossi (Verona University, MSc student), intern in the COATI Team (also Erasmus scholarship). 2022-02 — 2022-07. Project: "Temporal Brain Networks: bridging Theory and Real Data".
-9. Cyprien Michel-Deletie (ENS Lyon, ENS student), intern in the COATI Team, I3S Lab. Summer 2021. Project: "Null Processes for Computational Neuroscience".
-8. Marcello Politi (Univ. of Rome "Tor Vergata", MSc student), MSc. in Informatics, also hosted as an intern in the COATI Team. Spring 2021.
-7. Arno Gobbin, PFE at Polytech Nice Sophia (BSc student). 2019-20. Project: "Computational complexity of puzzles and games".
-6. Hossein Baktash (Sharif Institute of Technology, BSc student), intern in the COATI Team, I3S Lab. Summer 2019. Project: "Compression of Artificial Neural Networks".
-5. Paul Bastide (ENS Rennes, ENS student), intern in the COATI Team, I3S Lab. Spring 2019.
-4. Iliad Ramezani (Sharif Institute of Technology, BSc student), intern at Max-Planck Institute for Informatics, Saarbrücken, during Summer 2018.
-3. Emilio Cruciani (Gran Sasso Science Institute, PhD student), intern at Max-Planck Institute for Informatics, Saarbrücken, in Summer 2017.
-2. Giacomo Scornavacca (Università degli Studi dell'Aquila, PhD student), intern at Max-Planck Institute for Informatics, Saarbrücken, in Summer 2017.
 1. Niko Kleer (HTW Saar, BSc student), at Max-Planck Institute for Informatics, Saarbrücken. Thesis: Self-Stabilizing Broadcast with 1 Bit. Defended in 2017.
+2. Giacomo Scornavacca (Università degli Studi dell'Aquila, PhD student), intern at Max-Planck Institute for Informatics, Saarbrücken, in Summer 2017.
+3. Emilio Cruciani (Gran Sasso Science Institute, PhD student), intern at Max-Planck Institute for Informatics, Saarbrücken, in Summer 2017.
+4. Iliad Ramezani (Sharif Institute of Technology, BSc student), intern at Max-Planck Institute for Informatics, Saarbrücken, during Summer 2018.
+5. Paul Bastide (ENS Rennes, ENS student), intern in the COATI Team, I3S Lab. Spring 2019.
+6. Hossein Baktash (Sharif Institute of Technology, BSc student), intern in the COATI Team, I3S Lab. Summer 2019. Project: "Compression of Artificial Neural Networks".
+7. Arno Gobbin, PFE at Polytech Nice Sophia (BSc student). 2019-20. Project: "Computational complexity of puzzles and games".
+8. Marcello Politi (Univ. of Rome "Tor Vergata", MSc student), MSc. in Informatics, also hosted as an intern in the COATI Team. Spring 2021.
+9. Cyprien Michel-Deletie (ENS Lyon, ENS student), intern in the COATI Team, I3S Lab. Summer 2021. Project: "Null Processes for Computational Neuroscience".
+10. Aurora Rossi (Verona University, MSc student), intern in the COATI Team (also Erasmus scholarship). 2022-02 — 2022-07. Project: "Temporal Brain Networks: bridging Theory and Real Data".
+11. Maël Clergue (ENS Lyon), intern in the COATI Team. 2023-06 — 2023-08. Project: "Scientific Machine Learning for World Dynamics Modeling".
+12. Pierre Pereira, INRIA, pre-doctoral student, 2024-05 - 2024-08.
+13. Aakash Kumar (IISER Kolkata), remote MSc thesis supervision. 2024-08 — 2025-05. Project: "Phase transitions in Neural Networks".
+14. Matteo Stromieri (Università di Roma Tor Vergata), Math-Vives PEPR internship. 2025-04 — 2025-09. Project: "Mathematical Approaches to Comparative Evolutionary Neuroscience".
+15. Davide Toniatti (Università di Roma Tor Vergata), MSc thesis supervision. 2025. Project: "Additive vs Multiplicative Weighted Bloom Filters".
 
 ## Awards, Grants etc.
 
