@@ -8,6 +8,10 @@ tags = ["syntax", "code"]
 
 # Talks
 
+## 2026
+
+* *Lévy Walks: Optimal Foraging Across Dimensions and Parallel Search*, CALISTO Seminar, INRIA Sophia Antipolis.
+
 ## 2025
 
 * *From Theoretical Computer Science to Biology and Neuroscience*, French-Indian Campus meeting, IIIT Delhi.
