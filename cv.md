@@ -219,7 +219,6 @@ Together with [Stefano Leucci](https://www.stefanoleucci.com/) and [Luciano Gual
 - 2016-18. Postdoc at [Max Planck Institute for Informatics][MPII] in Kurt Mehlhorn's Algorithms&Complexity Group.
 - 2018\. Fellow of the [Simons Institute for the Theory of Computing (U.C. Berkeley)][SIMONS] in the *Brain and Computation* Program.
 
-Fellow of the [Simons Institute for the Theory of Computing (U.C. Berkeley)][SIMONS] in the *Brain and Computation* Program.
 
 
 ## Education
