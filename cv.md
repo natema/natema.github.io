@@ -46,7 +46,8 @@ tags = ["syntax", "code"]
 13. Aakash Kumar (IISER Kolkata), remote MSc thesis supervision. 2024-08 — 2025-05. Project: "Phase transitions in Neural Networks".
 14. Matteo Stromieri (Università di Roma Tor Vergata), Math-Vives PEPR internship. 2025-04 — 2025-09. Project: "Mathematical Approaches to Comparative Evolutionary Neuroscience".
 15. Davide Toniatti (Università di Roma Tor Vergata), MSc thesis supervision. 2025. Project: "Additive vs Multiplicative Weighted Bloom Filters".
-16. Erica Luciani (Sapienza Università di Roma), visiting PhD student. 2026-02 — 2026-04.
+16. Salma DOUBALI (Ubinet, Université Côte d'Azur), TER project. 2025-11 — 2026-02.
+17. Erica Luciani (Sapienza Università di Roma), visiting PhD student. 2026-02 — 2026-04.
 
 ## Awards, Grants etc.
 
