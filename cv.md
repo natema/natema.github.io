@@ -137,8 +137,7 @@ tags = ["syntax", "code"]
 - Area Chair for [UAI'26](https://www.auai.org/uai2026/), [UAI'25](https://www.auai.org/uai2025/),
 - Program Committee member for [AAAI'26](https://aaai.org/Conferences/AAAI-26/),
 [AAAI'25](https://aaai.org/Conferences/AAAI-25/), [AAAI'24](https://aaai.org/Conferences/AAAI-24/), [UAI'23](https://www.auai.org/uai2023/) (identified as Top Reviewer by the PC chairs), [AAAI'23](https://aaai.org/Conferences/AAAI-23/), [AAAI'22](https://aaai.org/Conferences/AAAI-22/), [EURO-PAR'21](https://2021.euro-par.org/), [SEA'21](https://sea2021.i3s.unice.fr/), [AAMAS'21](https://aamas2021.soton.ac.uk/), [IJCAI-PRICAI'20](https://ijcai20.org/), [SPAA'19](https://spaa.acm.org/2019/call_for_papers.html),
-- Conference Reviewer for
-[KDD'26](https://kdd2026.kdd.org/), [ICML'26](https://icml.cc/Conferences/2026), [ICLR'26](https://iclr.cc/Conferences/2026), [NeurIPS'25](https://neurips.cc/Conferences/2025), [ICML'25](https://icml.cc/Conferences/2025), [NeurIPS'24](https://neurips.cc/Conferences/2024) [ICML'24](https://icml.cc/Conferences/2024), [NeurIPS'23](https://neurips.cc/Conferences/2023), [JuliaCon'23](https://juliacon.org/2023/) (11 reviews).
+- Conference Reviewer for [KDD'26](https://kdd2026.kdd.org/), [ICML'26](https://icml.cc/Conferences/2026), [ICLR'26](https://iclr.cc/Conferences/2026), [NeurIPS'25](https://neurips.cc/Conferences/2025), [ICML'25](https://icml.cc/Conferences/2025), [NeurIPS'24](https://neurips.cc/Conferences/2024) [ICML'24](https://icml.cc/Conferences/2024), [NeurIPS'23](https://neurips.cc/Conferences/2023), [JuliaCon'23](https://juliacon.org/2023/) (11 reviews).
 
 I have also served as a reviewer for the conferences STOC, SODA, SPAA, PODC, ICALP, CIAC, DISC, EURO-PAR, ICDCS, IPDPS, OPODIS, RS&A, SEA and SIROCCO,
 and for the journals Distributed Computing, PLOS One, JCSS, Computer Networks, Physics Letter A, ACM Transactions on Parallel Computing.
