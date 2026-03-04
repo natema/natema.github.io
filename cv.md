@@ -141,7 +141,7 @@ tags = ["syntax", "code"]
 
 I have also served as a reviewer for the conferences STOC, SODA, SPAA, PODC, ICALP, CIAC, DISC, EURO-PAR, ICDCS, IPDPS, OPODIS, RS&A, SEA and SIROCCO,
 and for the journals Distributed Computing, PLOS One, JCSS, Computer Networks, Physics Letter A, ACM Transactions on Parallel Computing.
-I did **36 reviews certified** by [Web of Science](https://www.webofscience.com/wos/author/record/AAD-3548-2022).
+I more than **40 reviews certified** by [Web of Science](https://www.webofscience.com/wos/author/record/AAD-3548-2022).
 
 #### Expert panels, hiring committees et sim.
 
