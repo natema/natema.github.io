@@ -61,7 +61,7 @@ computability theory. However, due to the lack of mathematical tools to
 rigorously model the behavior of these systems in the short term, efforts to
 explore these dynamics algorithmically succeeded only recently. My main
 contributions in this area have been on the fundamental distributed-computing
-problems of Consensus ([StabCons16], [NoisyUnd20]), Majority Consensus ([SimpleDyn17], [UndDyn15], [PhaseTrans18], [NoisCons19], [NoisyPull24]), and Distributed Clustering ([DistCom15], [MetaStab19], [PPComDet18], [FYPComDet20]), where I have contributed
+problems of Consensus ([StabCons16], [NoisyUnd20]), Majority Consensus ([SimpleDyn17], [UndDyn15], [PhaseTrans18], [NoisCons19], [NoisyPull26]), and Distributed Clustering ([DistCom15], [MetaStab19], [PPComDet18], [FYPComDet20]), where I have contributed
 to proving rigorous results on unexpected aspects of the evolution of computational dynamics (see also ([IgnComp17], [ConsBroad20])).
 Another important part of my research has been to strive to use the aforementioned mathematical tools to problems in theoretical biology, in particular the
 study of the collective behaviors of biological systems ([InfoFlow18]).
@@ -124,7 +124,6 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [Hyper24]: https://hal.science/hal-04389639
 [JIE24]: https://onlinelibrary.wiley.com/doi/10.1111/jiec.13582
 [JOSS24]: https://joss.theoj.org/papers/10.21105/joss.05772
-[NoisyPull24]: https://hal.science/hal-04778388
 [SCHED24]: https://hal.science/hal-04497548
 [SSLT24]: https://hal.science/hal-04741369v2
 [FedLSF25]: https://hal.science/hal-05094752
@@ -135,3 +134,4 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [NeuronPrune26]: https://hal.science/hal-05507068v2
 [QuantPrune26]: https://hal.science/hal-05251970
 [TSPPosEnc26]: https://hal.science/hal-05295614
+[NoisyPull26]: https://hal.science/hal-04778388
