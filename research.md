@@ -39,8 +39,8 @@ tags = ["syntax", "code"]
 
 ### Machine Learning
 
-Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH22], [SLTH23], [RSS23], [SSLT24]) and the limits of neural pruning ([NeuronPrune26]).
-I've also done some work on Graph Neural Networks ([BRAVA26]), Neural Combinatorial Optimization  and on other problems in machine learning ([HID23], [CAID23], [SCHED24], [GENE25]).
+Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH22], [SLTH23], [RSS23], [SSLT24], [QuantPrune26]) and the limits of neural pruning ([NeuronPrune26]).
+I've also done some work on Graph Neural Networks ([BRAVA26]), Neural Combinatorial Optimization ([TSPPosEnc26]) and on other problems in machine learning ([HID23], [CAID23], [SCHED24], [FedLSF25], [GENE25]).
 
 From 2021 to 2024, I've also been contributing to [integrated assessment modeling software in Julia](https://github.com/worlddynamics) ([JOSS24], [JIE24]).
 
@@ -126,8 +126,11 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [JOSS24]: https://joss.theoj.org/papers/10.21105/joss.05772
 [SCHED24]: https://hal.science/hal-04497548
 [SSLT24]: https://hal.science/hal-04741369v2
+[FedLSF25]: https://hal.science/hal-05094752
 [GENE25]: https://hal.science/hal-05078291
 [ShapFMRI25]: https://hal.science/hal-04596845v1
 [BRAVA26]: https://hal.science/hal-05502800
 [RAES26]: https://doi.org/10.4230/LIPIcs.STACS.2026.6
 [NeuronPrune26]: https://hal.science/hal-05507068v2
+[QuantPrune26]: https://hal.science/hal-05251970
+[TSPPosEnc26]: https://hal.science/hal-05295614
