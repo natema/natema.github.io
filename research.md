@@ -66,7 +66,7 @@ Another important part of my research has been to strive to use the aforemention
 study of the collective behaviors of biological systems ([InfoFlow18]).
 In this respect, I have worked on the algorithmic analysis of the behavior of organisms such as ant species ([Levy22]) and Physarum polycephalum ([DistFlow18]).
 
-Besides all that, I investigated some other distributed-computing problems ([RepBins19], [MinMsg19], [NoisCons19], [ParLoad20]),
+Besides all that, I investigated some other distributed-computing problems ([RepBins19], [MinMsg19], [NoisCons19], [ParLoad20], [RAES26]),
 enjoyed working on some algorithm engineering projects ([Kadabra19]),
 and studied the complexity of certain combinatorial puzzles and games ([Candy14], [PegS16], [CoG]).
 
@@ -127,3 +127,4 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [SSLT24]: https://hal.science/hal-04741369v2
 [GENE25]: https://hal.science/hal-05078291
 [ShapFMRI25]: https://hal.science/hal-04596845v1
+[RAES26]: https://doi.org/10.4230/LIPIcs.STACS.2026.6
