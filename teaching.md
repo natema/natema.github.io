@@ -8,6 +8,10 @@ tags = ["syntax", "code"]
 
 # Teaching
 
+## A.A. 2025/2026
+
+* Algorithms and Data Structures, at University of Trento.
+
 ## A.A. 2024/2025
 
 * Parallel Machine Learning in Julia, at Università di Roma "Tor Vergata".
