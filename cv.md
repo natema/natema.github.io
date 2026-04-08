@@ -29,7 +29,7 @@ tags = ["syntax", "code"]
 * [Francesco D'Amore](https://fdamore95.github.io/) (UCA), 2019 — 2022.
 * [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/) (Gran Sasso Science Institute), 2016 — 2019.
 
-### Interns and undergraduate students
+### Visiting PhDs, interns & undergrad students
 
 1. Niko Kleer (HTW Saar, BSc student), at Max-Planck Institute for Informatics, Saarbrücken. Thesis: Self-Stabilizing Broadcast with 1 Bit. Defended in 2017.
 2. Giacomo Scornavacca (Università degli Studi dell'Aquila, PhD student), intern at Max-Planck Institute for Informatics, Saarbrücken, in Summer 2017.
