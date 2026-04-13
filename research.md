@@ -61,11 +61,11 @@ computability theory. However, due to the lack of mathematical tools to
 rigorously model the behavior of these systems in the short term, efforts to
 explore these dynamics algorithmically succeeded only recently. My main
 contributions in this area have been on the fundamental distributed-computing
-problems of Consensus ([StabCons16], [NoisyUnd20]), Majority Consensus ([SimpleDyn17], [UndDyn15], [PhaseTrans18], [NoisCons19], [NoisyPull26]), and Distributed Clustering ([DistCom15], [MetaStab19], [PPComDet18], [FYPComDet20]), where I have contributed
-to proving rigorous results on unexpected aspects of the evolution of computational dynamics (see also ([IgnComp17], [ConsBroad20])).
+problems of Consensus ([StabCons16], [NoisyUnd20]), Majority Consensus ([SimpleDyn17], [UndDyn15], [PhaseTrans18], [NoisCons19], [NoisyPull26], [DejaVu26]), and Distributed Clustering ([DistCom15], [MetaStab19], [PPComDet18], [FYPComDet20]), where I have contributed
+to proving rigorous results on unexpected aspects of the evolution of computational dynamics (see also ([IgnComp17], [ConsBroad20], [OrderStats26])).
 Another important part of my research has been to strive to use the aforementioned mathematical tools to problems in theoretical biology, in particular the
 study of the collective behaviors of biological systems ([InfoFlow18]).
-In this respect, I have worked on the algorithmic analysis of the behavior of organisms such as ant species ([Levy22]) and Physarum polycephalum ([DistFlow18]).
+In this respect, I have worked on the algorithmic analysis of the behavior of organisms such as ant species ([Levy22]), Physarum polycephalum ([DistFlow18]), and others ([Levy3D26]).
 
 Besides all that, I investigated some other distributed-computing problems ([RepBins19], [MinMsg19], [ParLoad20], [RAES26]),
 enjoyed working on some algorithm engineering projects ([Kadabra19]),
@@ -118,20 +118,23 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [Levy22]: https://link.springer.com/article/10.1007/s11721-022-00217-w
 [LTH22]: https://openreview.net/forum?id=Vjki79-619-
 [CAID23]: https://hal.science/hal-04328529
-[HID23]: https://hal.science/hal-03157141v2
-[RSS23]: https://hal.science/hal-03654720/
-[SLTH23]: https://hal.science/hal-04143024/
+[HID23]: https://hal.science/hal-03157141
+[RSS23]: https://hal.science/hal-03654720
+[SLTH23]: https://hal.science/hal-04143024
 [Hyper24]: https://hal.science/hal-04389639
 [JIE24]: https://onlinelibrary.wiley.com/doi/10.1111/jiec.13582
 [JOSS24]: https://joss.theoj.org/papers/10.21105/joss.05772
 [SCHED24]: https://hal.science/hal-04497548
-[SSLT24]: https://hal.science/hal-04741369v2
+[SSLT24]: https://hal.science/hal-04741369
 [FedLSF25]: https://hal.science/hal-05094752
 [GENE25]: https://hal.science/hal-05078291
-[ShapFMRI25]: https://hal.science/hal-04596845v1
+[ShapFMRI25]: https://hal.science/hal-04596845
 [BRAVA26]: https://hal.science/hal-05502800
 [RAES26]: https://doi.org/10.4230/LIPIcs.STACS.2026.6
-[NeuronPrune26]: https://hal.science/hal-05507068v2
+[NeuronPrune26]: https://hal.science/hal-05507068
 [QuantPrune26]: https://hal.science/hal-05251970
 [TSPPosEnc26]: https://hal.science/hal-05295614
 [NoisyPull26]: https://hal.science/hal-04778388
+[OrderStats26]: https://hal.science/hal-05548829
+[Levy3D26]: https://hal.science/hal-05551262
+[DejaVu26]: https://hal.science/hal-05585653
