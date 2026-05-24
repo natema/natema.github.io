@@ -37,8 +37,10 @@ tags = ["syntax", "code"]
 
 ## Research Bio
 
-My research studies how global behavior emerges from systems made of many simple interacting units, and how this viewpoint can be used to design algorithms, explain collective behavior, and understand efficient learning.
-Across theoretical computer science, machine learning, and computational neuroscience, I try to identify the minimal local rules, randomness, memory, communication, or structure needed for a system to compute reliably.
+My original motivation has been to understand intelligence as an emergent phenomenon: how networks of very simple units, such as neurons or agents, can give rise to computation, coordination, and adaptive behavior.
+This is what first led me to distributed computing and multi-agent systems, where one can ask precise mathematical questions about what a population can compute under severe local constraints.
+My work in computational neuroscience and machine learning approaches the same question from other sides.
+Across these areas, I study how local interactions, randomness, memory, communication, and structure shape the emergence of intelligent behavior.
 
 ### Learning theory and efficient machine learning
 
