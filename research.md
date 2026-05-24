@@ -37,39 +37,36 @@ tags = ["syntax", "code"]
 
 ## Research Bio
 
-### Machine Learning
+My research studies how global behavior emerges from systems made of many simple interacting units, and how this viewpoint can be used to design algorithms, explain collective behavior, and understand efficient learning.
+Across theoretical computer science, machine learning, and computational neuroscience, I try to identify the minimal local rules, randomness, memory, communication, or structure needed for a system to compute reliably.
 
-Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH22], [SLTH23], [RSS23], [SSLT24], [QuantPrune26]) and the limits of neural pruning ([NeuronPrune26]).
-I've also done some work on Graph Neural Networks ([BRAVA26]), Neural Combinatorial Optimization ([TSPPosEnc26]) and on other problems in machine learning ([HID23], [CAID23], [SCHED24], [FedLSF25], [GENE25]).
+### Learning theory and efficient machine learning
 
-From 2021 to 2024, I've also been contributing to [integrated assessment modeling software in Julia](https://github.com/worlddynamics) ([JOSS24], [JIE24]).
+Since 2019, a central part of my work has been the mathematical theory of neural network sparsification.
+In the line of work around the Lottery Ticket and Strong Lottery Ticket hypotheses, I have studied when large random networks contain subnetworks that approximate trained or target networks, including convolutional architectures and structured winning tickets ([LTH22], [SLTH23], [RSS23]).
+More recently, I have been investigating the sharp limits of this phenomenon: how sparsity scales in strong lottery tickets ([SSLT24]), what changes under finite precision and quantization ([QuantPrune26]), and why structured neuron pruning can be exponentially less expressive than unstructured weight pruning ([NeuronPrune26]).
 
-### Computational Neuroscience
+I have also worked on algorithmic machine learning beyond pruning.
+This includes graph neural networks for scalable betweenness ranking on difficult network families ([BRAVA26]), transformer-based neural solvers for the Euclidean Traveling Salesman Problem using positional encodings ([TSPPosEnc26]), communication-efficient federated learning ([FedLSF25], [GENE25]), GPU implementations of FlyHash ([CAID23]), hidden learning and information leakage in neural networks ([HID23]), and scheduling models for neural inference with fully compressible tasks ([SCHED24]).
+From 2021 to 2024, I also contributed to scientific computing tools for integrated assessment modeling in Julia, including the WorldDynamics.jl package and sensitivity analysis of the Earth for All model ([JOSS24], [JIE24]).
 
-Since 2017, I've been interested in theoretical and computational neuroscience.
-I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently, I've been working on providing algorithmic and mathematical tools to investigate how the central nervous system is organized.
-In that respect, I worked on the problem of network alignment applied to brain atlases ([BrainAlign21]), on a temporal version of the Hyperbolic Random Graph as a null model for fMRI data ([Hyper24]) and on techniques for interpreting fMRI activity ([ShapFMRI25]).
-I've also worked on the Assembly Calculus, a theoretical framework that explains the emergence of high-level cognition from the low-level behavior of neurons and synapses through an algorithmic formalization of Hebbian learning ([AC22]).
+### Computational neuroscience and brain networks
 
-### Theoretical Computer Science and Multi-agent Systems
+Since 2017, I have been interested in theoretical and computational neuroscience, starting with my fellowship in the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018).
+A recurring goal has been to bring algorithmic and network-science tools to questions about how nervous systems are organized and how they compute.
+On brain data, I have worked on network-alignment methods for comparing structural connectomes across brain atlases ([BrainAlign21]), temporal null models for small-world structure in fMRI dynamics ([Hyper24]), and Shapley-value methods for identifying functional-connectivity subnetworks that contribute to narrative classification ([ShapFMRI25]).
+On the theory side, I have worked on the Assembly Calculus as a model of high-level cognition emerging from Hebbian-style neural and synaptic dynamics ([AC22]).
 
-Originally motivated by an interest in the theory of complex systems, my research has focused on computational dynamics ([CompDyn17], [SurvDyn20]), i.e., simple distributed
-probabilistic algorithms which allow multi-agent systems to solve global
-coordination tasks.
-This class of algorithms has been studied extensively from the perspective of
-computability theory. However, due to the lack of mathematical tools to
-rigorously model the behavior of these systems in the short term, efforts to
-explore these dynamics algorithmically succeeded only recently. My main
-contributions in this area have been on the fundamental distributed-computing
-problems of Consensus ([StabCons16], [NoisyUnd20]), Majority Consensus ([SimpleDyn17], [UndDyn15], [PhaseTrans18], [NoisCons19], [NoisyPull26], [DejaVu26]), and Distributed Clustering ([DistCom15], [MetaStab19], [PPComDet18], [FYPComDet20]), where I have contributed
-to proving rigorous results on unexpected aspects of the evolution of computational dynamics (see also ([IgnComp17], [ConsBroad20], [OrderStats26])).
-Another important part of my research has been to strive to use the aforementioned mathematical tools to problems in theoretical biology, in particular the
-study of the collective behaviors of biological systems ([InfoFlow18]).
-In this respect, I have worked on the algorithmic analysis of the behavior of organisms such as ant species ([Levy22]), Physarum polycephalum ([DistFlow18]), and others ([Levy3D26]).
+### Distributed computation and collective behavior
 
-Besides all that, I investigated some other distributed-computing problems ([RepBins19], [MinMsg19], [ParLoad20], [RAES26]),
-enjoyed working on some algorithm engineering projects ([Kadabra19]),
-and studied the complexity of certain combinatorial puzzles and games ([Candy14], [PegS16], [CoG]).
+My original research program is in computational dynamics: simple randomized protocols by which a population of small agents solves global coordination tasks ([CompDyn17], [SurvDyn20]).
+The central question is not only whether these dynamics eventually compute, but how fast, robustly, and with how little memory or communication they do so.
+I have studied consensus, plurality consensus, and rumor spreading under constraints such as noise, adversarial perturbations, many opinions, self-stabilization, and tiny messages ([StabCons16], [UndDyn15], [SimpleDyn17], [NoisCons19], [NoisyUnd20], [NoisyPull26], [DejaVu26], [ConsBroad20], [MinMsg19]).
+A complementary line of work analyzes how the same simple dynamics can perform distributed clustering or expose network structure, including dynamic stochastic block models, metastability of the 2-Choices dynamics, and community-detection protocols based on local averaging or label propagation ([DistCom15], [MetaStab19], [PPComDet18], [FYPComDet20], [PhaseTrans18]).
+
+This perspective also connects to biological distributed algorithms.
+I have studied limits on reliable information flow in noisy populations ([InfoFlow18]), models of noisy collective decision-making ([Levy22]), and collective dynamics inspired by Physarum's ability to estimate electrical flows ([DistFlow18]).
+More broadly, I have worked on population protocols for order statistics ([OrderStats26]), stochastic load balancing and balls-into-bins processes ([RepBins19], [ParLoad20]), dynamic expander extraction and rumor spreading under churn ([DistSparse20], [RAES26]), fast approximation algorithms for betweenness centrality ([Kadabra19]), three-dimensional search by intermittent Cauchy walks ([Levy3D26]), and the complexity of combinatorial games and puzzles ([Candy14], [PegS16], [CoG]).
 
 ## Code
 
@@ -115,8 +112,9 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [SurvDyn20]: https://dl.acm.org/doi/10.1145/3388392.3388403
 [BrainAlign21]: https://hal.archives-ouvertes.fr/hal-03033777
 [AC22]: https://hal.archives-ouvertes.fr/hal-03479582/
-[Levy22]: https://link.springer.com/article/10.1007/s11721-022-00217-w
-[LTH22]: https://openreview.net/forum?id=Vjki79-619-
+[Levy22]: https://hal.science/hal-03694177
+[LTH22]: https://inria.hal.science/hal-03548226
+[Swarm22]: https://hal.science/hal-04502507
 [CAID23]: https://hal.science/hal-04328529
 [HID23]: https://hal.science/hal-03157141
 [RSS23]: https://hal.science/hal-03654720
