@@ -65,8 +65,8 @@ I have studied consensus, plurality consensus, and rumor spreading under constra
 A complementary line of work analyzes how the same simple dynamics can perform distributed clustering or expose network structure, including dynamic stochastic block models, metastability of the 2-Choices dynamics, and community-detection protocols based on local averaging or label propagation ([DistCom15], [MetaStab19], [PPComDet18], [FYPComDet20], [PhaseTrans18]).
 
 This perspective also connects to biological distributed algorithms.
-I have studied limits on reliable information flow in noisy populations ([InfoFlow18]), models of noisy collective decision-making ([Levy22]), and collective dynamics inspired by Physarum's ability to estimate electrical flows ([DistFlow18]).
-More broadly, I have worked on population protocols for order statistics ([OrderStats26]), stochastic load balancing and balls-into-bins processes ([RepBins19], [ParLoad20]), dynamic expander extraction and rumor spreading under churn ([DistSparse20], [RAES26]), fast approximation algorithms for betweenness centrality ([Kadabra19]), three-dimensional search by intermittent Cauchy walks ([Levy3D26]), and the complexity of combinatorial games and puzzles ([Candy14], [PegS16], [CoG]).
+I have studied limits on reliable information flow in noisy populations ([InfoFlow18]), models of noisy collective decision-making ([Swarm22]), collective dynamics inspired by Physarum's ability to estimate electrical flows ([DistFlow18]), and search by parallel Lévy walks ([Levy22], [Levy3D26]).
+More broadly, I have worked on population protocols for order statistics ([OrderStats26]), stochastic load balancing and balls-into-bins processes ([RepBins19], [ParLoad20]), dynamic expander extraction and rumor spreading under churn ([DistSparse20], [RAES26]), fast approximation algorithms for betweenness centrality ([Kadabra19]), and the complexity of combinatorial games and puzzles ([Candy14], [PegS16], [CoG]).
 
 ## Code
 
