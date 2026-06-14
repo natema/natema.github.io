@@ -158,7 +158,7 @@ Since 2024, I have more than **45 reviews certified** by [Web of Science (Publon
 - Member of the [École Doctorale STIC](https://webusers.i3s.unice.fr/edstic/) (Sciences et Technologies de l'Information et de la Communication) of Université Côte d'Azur, since 2024.
 - External member of [University of Rome Tor Vergata's PhD School in Data Science](https://datasciencephd.uniroma2.it/), since 2023.
 
-#### PhD Thesis Committee
+#### PhD Thesis Committees
 
 - Member of Prokopchik Konstantin's PhD jury.
   Date of defense: March 24th 2023.
@@ -174,6 +174,10 @@ Since 2024, I have more than **45 reviews certified** by [Web of Science (Publon
   Date of defense: September 11th 2017.
   Institution: Max Planck Institute for Informatics.
   Thesis title: *Metastability-Containing Circuits, Parallel Distance Problems, and Terrain Guarding*.
+
+#### Other Thesis Committees
+
+- External Examiner, Master's Thesis (with Prof. Petra Mutzel as Internal Examiner), Department of Computer Science, University of Bonn, Germany (2026)
 
 #### Organized Workshops
 
