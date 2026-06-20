@@ -12,9 +12,9 @@
 >  *but some things are more likely than others.*
 
 
-I am a [CNRS] researcher (HDR) at [Université
-Côte d’Azur][UCA], a [3IA Côte d'Azur][3IA] Chair, a member of the [COATI
-Project-Team][COATI] between [INRIA] and [I3S][I3S], and the coordinator of the [ELECTRON Associated INRIA Team](https://team.inria.fr/electron/) with King's College London.
+I study fundamental mathematical and algorithmic aspects of intelligent systems, such as the efficiency of neural network sparsification and quantization, graph neural networks and transformer-based neural solvers, the robustness of multi-agent computation, and brain-inspired models of intelligence.
+
+I am a [CNRS] researcher (HDR) at [Université Côte d'Azur][UCA], a [3IA Côte d'Azur][3IA] Chair, a member of the [COATI Project-Team][COATI] between [INRIA] and [I3S][I3S], and the coordinator of the [ELECTRON Associated INRIA Team](https://team.inria.fr/electron/) with King's College London.
 Currently, I am a long-term visitor in Prof. Petra Mutzel's group at [University of Bonn](https://www.informatik.uni-bonn.de/en/) and a member of the [Lamarr Institute](https://lamarr-institute.org/).
 
 ~~~
@@ -30,8 +30,12 @@ For more information (projects, academic service etc.), see my [CV](/cv/).
 
 ### Research
 
-I'm interested in machine learning and neuroscience, with a focus on theoretical aspects of multi-agent systems and artificial neural networks.
-I give a quick overview of my research [here](/research/#research_bio).
+My work spans machine learning, computational neuroscience and multi-agent systems. 
+My most coherent recent contribution is a research program on when large neural networks contain sparse subnetworks that preserve target behavior.
+This work connects the expressive limits of pruning, approximation guarantees, structured architectures, and quantization.
+The goal is to understand which compression methods preserve capability and which impose fundamental costs.
+
+I give a quick overview of my contributions [here](/research/#research_bio).
 
 <!--
 ### News
