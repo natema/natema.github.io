@@ -7,10 +7,6 @@
 <img src="images/ema.png" style="border-radius:100%; float: right; width:320px;  background-color: #0e6b0e; ">
 ~~~
 
-> *All things are possible,*
->  *perhaps nothing is certain,*
->  *but some things are more likely than others.*
-
 
 I study fundamental mathematical and algorithmic aspects of intelligent systems, such as the efficiency of neural network sparsification and quantization, graph neural networks and transformer-based neural solvers, the robustness of multi-agent computation, and brain-inspired models of intelligence.
 
