@@ -7,12 +7,10 @@ tags = ["syntax", "code"]
 +++
 # Academic CV
 
-## AI-Relevant Highlights
+## Highlights
 
-* 3IA Chair working on theoretical and efficient machine learning.
-* Research on neural network sparsification and quantization.
-* Work on graph neural networks, transformer-based neural solvers, federated learning, and brain-inspired computation.
-* Principal investigator and coordinator of projects connecting AI, multi-agent systems, neuroscience, and autonomous swarms.
+* Research on neural network sparsification and quantization, graph neural networks, transformer-based neural solvers, federated learning, and brain-inspired computation.
+* Principal investigator and coordinator of projects connecting AI, multi-agent systems, neuroscience, and autonomous swarms. 3IA Chair working on theoretical and efficient machine learning.
 * Area Chair or reviewer for major AI and machine-learning venues, including UAI, AAAI, NeurIPS, ICML, ICLR, and KDD.
 
 ## Supervisor Activity
