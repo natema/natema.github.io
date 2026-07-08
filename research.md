@@ -63,7 +63,7 @@ On the theory side, I have worked on the Assembly Calculus as a model of high-le
 
 My original research program is in computational dynamics: simple randomized protocols by which a population of small agents solves global coordination tasks ([CompDyn17], [SurvDyn20]).
 The central question is not only whether these dynamics eventually compute, but how fast, robustly, and with how little memory or communication they do so.
-I have studied consensus, plurality consensus, and rumor spreading under constraints such as noise, adversarial perturbations, many opinions, self-stabilization, and tiny messages ([StabCons16], [UndDyn15], [SimpleDyn17], [NoisCons19], [NoisyUnd20], [NoisyPull26], [DejaVu26], [ConsBroad20], [MinMsg19]).
+I have studied consensus, plurality consensus, and rumor spreading under constraints such as noise, adversarial perturbations, many opinions, limited memory, self-stabilization, and tiny messages ([StabCons16], [UndDyn15], [UndState18], [VoteTime16], [MemPlur19], [hMaj25], [SimpleDyn17], [NoisCons19], [NoisyUnd20], [NoisyPull26], [DejaVu26], [ConsBroad20], [MinMsg19]).
 A complementary line of work analyzes how the same simple dynamics can perform distributed clustering or expose network structure, including dynamic stochastic block models, metastability of the 2-Choices dynamics, and community-detection protocols based on local averaging or label propagation ([DistCom15], [MetaStab19], [PPComDet18], [FYPComDet20], [PhaseTrans18]).
 
 This perspective also connects to biological distributed algorithms.
@@ -94,6 +94,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [UndDyn15]: https://epubs.siam.org/doi/10.1137/1.9781611973730.27
 [PegS16]: https://drops.dagstuhl.de/opus/volltexte/2016/5870/
 [StabCons16]: https://epubs.siam.org/doi/10.1137/1.9781611974331.ch46
+[VoteTime16]: https://hal.science/hal-02001816
 [CompDyn17]: https://tel.archives-ouvertes.fr/tel-02002681
 [IgnComp17]: https://dl.acm.org/doi/10.1145/3087801.3087817
 [SimpleDyn17]: https://link.springer.com/article/10.1007%2Fs00446-016-0289-4
@@ -101,11 +102,13 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [InfoFlow18]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006195
 [PhaseTrans18]: https://dl.acm.org/doi/10.5555/3237383.3237499
 [PPComDet18]: https://drops.dagstuhl.de/opus/volltexte/2018/9470/
+[UndState18]: https://hal.science/hal-02002476
 [Kadabra19]: https://dl.acm.org/doi/10.1145/3284359
 [MetaStab19]: https://ojs.aaai.org//index.php/AAAI/article/view/4560
 [MinMsg19]: https://link.springer.com/article/10.1007%2Fs00446-018-0330-x
 [NoisCons19]: https://link.springer.com/article/10.1007%2Fs00446-018-0335-5
 [RepBins19]: https://link.springer.com/article/10.1007%2Fs00446-017-0320-4
+[MemPlur19]: https://hal.science/hal-02002448
 [ConsBroad20]: https://drops.dagstuhl.de/opus/volltexte/2020/11727/
 [DistSparse20]: https://epubs.siam.org/doi/10.1137/1.9781611975994.80
 [FYPComDet20]: https://epubs.siam.org/doi/10.1137/19M1243026
@@ -129,6 +132,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [FedLSF25]: https://hal.science/hal-05094752
 [GENE25]: https://hal.science/hal-05078291
 [ShapFMRI25]: https://hal.science/hal-04596845
+[hMaj25]: https://hal.science/hal-05198643
 [BRAVA26]: https://hal.science/hal-05502800
 [RAES26]: https://doi.org/10.4230/LIPIcs.STACS.2026.6
 [NeuronPrune26]: https://hal.science/hal-05507068
