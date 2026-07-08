@@ -49,7 +49,7 @@ In the line of work around the Lottery Ticket and Strong Lottery Ticket hypothes
 More recently, I have been investigating the sharp limits of this phenomenon: how sparsity scales in strong lottery tickets ([SSLT24]), what changes under finite precision and quantization ([QuantPrune26]), and why structured neuron pruning can be exponentially less expressive than unstructured weight pruning ([NeuronPrune26]).
 
 I have also worked on algorithmic machine learning beyond pruning.
-This includes graph neural networks for scalable betweenness ranking on difficult network families ([BRAVA26]), transformer-based neural solvers for the Euclidean Traveling Salesman Problem using positional encodings ([TSPPosEnc26]), communication-efficient federated learning ([FedLSF25], [GENE25]), GPU implementations of FlyHash ([CAID23]), hidden learning and information leakage in neural networks ([HID23]), and scheduling models for neural inference with fully compressible tasks ([SCHED24]).
+This includes graph neural networks for scalable betweenness ranking on difficult network families ([BRAVA26]), transformer-based neural solvers for the Euclidean Traveling Salesman Problem using positional encodings ([TSPPosEnc26]), compositional generalization in autoregressive models ([LogitComp26]), the associative-memory capacity of asymmetric Hopfield networks ([Hopfield26]), communication-efficient federated learning and locality-sensitive filtering ([FedLSF25], [GENE25], [LSFSphere26]), GPU implementations of FlyHash ([CAID23]), hidden learning and information leakage in neural networks ([HID23]), and scheduling models for neural inference with fully compressible tasks ([SCHED24]).
 From 2021 to 2024, I also contributed to scientific computing tools for integrated assessment modeling in Julia, including the WorldDynamics.jl package and sensitivity analysis of the Earth for All model ([JOSS24], [JIE24]).
 
 ### Computational neuroscience and brain networks
@@ -142,3 +142,6 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [OrderStats26]: https://hal.science/hal-05548829
 [Levy3D26]: https://hal.science/hal-05551262
 [DejaVu26]: https://hal.science/hal-05585653
+[LSFSphere26]: https://hal.science/hal-05609665
+[LogitComp26]: https://hal.science/hal-05636948
+[Hopfield26]: https://hal.science/hal-05631355
