@@ -48,9 +48,8 @@ Since 2019, a central part of my work has been the mathematical theory of neural
 In the line of work around the Lottery Ticket and Strong Lottery Ticket hypotheses, I have studied when large random networks contain subnetworks that approximate trained or target networks, including convolutional architectures and structured winning tickets ([LTH22], [SLTH23], [RSS23]).
 More recently, I have been investigating the sharp limits of this phenomenon: how sparsity scales in strong lottery tickets ([SSLT24]), what changes under finite precision and quantization ([QuantPrune26]), and why structured neuron pruning can be exponentially less expressive than unstructured weight pruning ([NeuronPrune26]).
 
-I have also worked on algorithmic machine learning beyond pruning.
-This includes graph neural networks for scalable betweenness ranking on difficult network families ([BRAVA26]), transformer-based neural solvers for the Euclidean Traveling Salesman Problem using positional encodings ([TSPPosEnc26]), compositional generalization in autoregressive models ([LogitComp26]), the associative-memory capacity of asymmetric Hopfield networks ([Hopfield26]), communication-efficient federated learning and locality-sensitive filtering ([FedLSF25], [GENE25], [LSFSphere26]), GPU implementations of FlyHash ([CAID23]), hidden learning and information leakage in neural networks ([HID23]), and scheduling models for neural inference with fully compressible tasks ([SCHED24]).
-From 2021 to 2024, I also contributed to scientific computing tools for integrated assessment modeling in Julia, including the WorldDynamics.jl package and sensitivity analysis of the Earth for All model ([JOSS24], [JIE24]).
+Beyond pruning, I have also worked on various other topics in machine learning theory such as graph neural networks for scalable betweenness ranking on difficult network families ([BRAVA26]), transformer-based neural solvers for the Euclidean Traveling Salesman Problem using positional encodings ([TSPPosEnc26]), compositional generalization in autoregressive models ([LogitComp26]), the associative-memory capacity of asymmetric Hopfield networks ([Hopfield26]), communication-efficient federated learning and locality-sensitive filtering ([FedLSF25], [GENE25], [LSFSphere26]), GPU implementations of FlyHash ([CAID23]), hidden learning and information leakage in neural networks ([HID23]), and scheduling models for neural inference with fully compressible tasks ([SCHED24]).
+
 
 ### Computational neuroscience and brain networks
 
@@ -68,7 +67,12 @@ A complementary line of work analyzes how the same simple dynamics can perform d
 
 This perspective also connects to biological distributed algorithms.
 I have studied limits on reliable information flow in noisy populations ([InfoFlow18]), models of noisy collective decision-making ([Swarm22]), collective dynamics inspired by Physarum's ability to estimate electrical flows ([DistFlow18]), and search by parallel Lévy walks ([Levy22], [Levy3D26]).
-More broadly, I have worked on population protocols for order statistics ([OrderStats26]), stochastic load balancing and balls-into-bins processes ([RepBins19], [ParLoad20]), dynamic expander extraction and rumor spreading under churn ([DistSparse20], [RAES26]), fast approximation algorithms for betweenness centrality ([Kadabra19]), and the complexity of combinatorial games and puzzles ([Candy14], [PegS16], [CoG]).
+More broadly, I have worked on population protocols for order statistics ([OrderStats26]), stochastic load balancing and balls-into-bins processes ([RepBins19], [ParLoad20]), and dynamic expander extraction and rumor spreading under churn ([DistSparse20], [RAES26]).
+
+## Other past projects
+
+In the past, I have also worked on fast approximation algorithms for betweenness centrality ([Kadabra19]), and the complexity of combinatorial games and puzzles ([Candy14], [PegS16], [CoG]).
+From 2021 to 2024, I also contributed to scientific computing tools for integrated assessment modeling in Julia, including the development of the WorldDynamics.jl package and sensitivity analysis of the Earth for All model ([JOSS24], [JIE24]).
 
 ## Code
 
