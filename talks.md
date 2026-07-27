@@ -11,6 +11,7 @@ tags = ["syntax", "code"]
 ## 2026
 
 * *Lévy Walks: Optimal Foraging Across Dimensions and Parallel Search*, CALISTO Seminar, INRIA Sophia Antipolis.
+* *The Strong Lottery Ticket Hypothesis: Random Subset Sums, Sparsity, and Structure*, Juelich Research Centre, Juelich. 
 
 ## 2025
 
