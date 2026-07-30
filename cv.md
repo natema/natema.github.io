@@ -55,7 +55,12 @@ tags = ["syntax", "code"]
 16. Salma DOUBALI (Ubinet, Université Côte d'Azur), TER project. 2025-11 — 2026-02.
 17. Erica Luciani (Sapienza Università di Roma), visiting PhD student. 2026-02 — 2026-04.
 
-## Awards, Grants etc.
+## Awards, Fellowships etc.
+
+### 2026
+
+* I've been awarded a [WRH Program - FY2026 Overseas Researcher
+Invitation](https://www.rdc.isct.ac.jp/en/news/20250903news/) by the Institute of Science  Tokyo to visit [Murata's lab](https://www.net.c.titech.ac.jp/murata.html) in 2027. 
 
 ### 2019
 
