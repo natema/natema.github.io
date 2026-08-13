@@ -25,6 +25,7 @@ tags = ["syntax", "code"]
 
 ### PhD Students
 
+* [Justin Dachille](https://justindachille.github.io/) (UCA), 2026 — 2028 (expected).
 * [Matteo Stromieri](https://matteostromieri.github.io/) (UCA), 2025 — 2028 (expected).
 * [Carlo Castoldi]() (UCA), 2025 — 2028 (expected).
 * [Aakash Kumar](https://aakash-verse.github.io/) (UCA), 2025 — 2028 (expected).
