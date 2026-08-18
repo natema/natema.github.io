@@ -152,7 +152,7 @@ Invitation](https://www.rdc.isct.ac.jp/en/news/20250903news/) by the Institute o
 
 I have also served as a reviewer for the conferences STOC, SODA, SPAA, PODC, ICALP, CIAC, DISC, EURO-PAR, ICDCS, IPDPS, OPODIS, RS&A, SEA and SIROCCO,
 and for the journals Distributed Computing, PLOS One, JCSS, Computer Networks, Physics Letter A, ACM Transactions on Parallel Computing.
-Since 2024, I have more than **45 reviews certified** by [Web of Science (Publons)](https://www.webofscience.com/wos/author/record/AAD-3548-2022).
+Since 2024, I have **53 reviews certified** by [Web of Science (Publons)](https://www.webofscience.com/wos/author/record/AAD-3548-2022).
 
 #### Expert panels, hiring committees et sim.
 
