@@ -7,7 +7,7 @@
 <img src="images/ema.png" style="border-radius:100%; float: right; width:320px;  background-color: #0e6b0e; ">
 ~~~
 
-I study fundamental mathematical and algorithmic aspects of intelligent systems, with a focus on efficient neural networks, graph neural networks, transformer-based neural solvers, multi-agent computation, and brain-inspired models of intelligence.
+I study fundamental mathematical and algorithmic aspects of intelligent systems, with a focus on efficient neural networks, multi-agent computation, and brain-inspired models.
 My work spans machine learning, computational neuroscience, and distributed systems. 
 
 One line of my work has studied when large neural networks contain sparse subnetworks that preserve target behavior.
