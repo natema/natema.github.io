@@ -61,7 +61,7 @@ tags = ["syntax", "code"]
 ### 2026
 
 * I've been awarded a [WRH Program - FY2026 Overseas Researcher
-Invitation](https://www.rdc.isct.ac.jp/en/news/20250903news/) by the Institute of Science  Tokyo to visit [Murata's lab](https://www.net.c.titech.ac.jp/murata.html) in 2027. 
+Invitation](https://www.rdc.isct.ac.jp/en/news/20250903news/) by the Institute of Science  Tokyo to visit [Murata's lab](https://www.net.c.titech.ac.jp/murata.html) in 2027 and 2028. 
 
 ### 2019
 
