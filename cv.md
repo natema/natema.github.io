@@ -172,20 +172,21 @@ Since 2024, I have **53 reviews certified** by [Web of Science (Publons)](https:
 
 #### PhD Thesis Committees
 
+- Member of Filippos Christodoulou's PhD jury.
+  Date of defense: October 27th 2026.
+  Institution: GSSI (L'Aquila, Italy).
+
 - Member of Prokopchik Konstantin's PhD jury.
   Date of defense: March 24th 2023.
   Institution: GSSI (L'Aquila, Italy).
-  Thesis title: *Hypergraph-based Methods for Semi-Supervised Learning*.
 
 - Member of Brieuc Guinard's PhD jury.
   Date of defense: November 4th 2020.
   Institution: IRIF (Paris).
-  Thesis title: *Intermittent Lévy Walks and applications to biological searches*.
 
 - Member of the Stephan Friedrichs' PhD committee.
   Date of defense: September 11th 2017.
   Institution: Max Planck Institute for Informatics.
-  Thesis title: *Metastability-Containing Circuits, Parallel Distance Problems, and Terrain Guarding*.
 
 #### Other Thesis Committees
 
