@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>http://enatale.name/talks/index.html</loc>
-    <lastmod>2026-08-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>http://enatale.name/contact/index.html</loc>
-    <lastmod>2026-08-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>http://enatale.name/publications/index.html</loc>
-    <lastmod>2026-08-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>http://enatale.name/cv/index.html</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>http://enatale.name/research/index.html</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>http://enatale.name/index.html</loc>
-    <lastmod>2026-08-18</lastmod>
+    <loc>http://enatale.name/talks/index.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>http://enatale.name/cv/index.html</loc>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>http://enatale.name/teaching/index.html</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>http://enatale.name/publications/index.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>http://enatale.name/index.html</loc>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
