@@ -123,6 +123,7 @@ Invitation](https://www.rdc.isct.ac.jp/en/news/20250903news/) by the Institute o
 
 ## Invited Speaker
 
+* Workshop on Distributed Computing, Optimization & Learning (WDCL 2026), Nicosia (Cyprus).
 * Workshop on Computational Aspects of Complex Networks (CACN 2024), University of Rome Tor Vergata (Italy).
 * 10th Workshop on Biological Distributed Algorithms (BDA 2024), Nantes (France).
 * 20th Italian Conference on Theoretical Computer Science (ICTCS 2019), Como (Italy).
