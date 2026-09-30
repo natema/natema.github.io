@@ -158,6 +158,7 @@ Since 2024, I have **53 reviews certified** by [Web of Science (Publons)](https:
 #### Expert panels, hiring committees et sim.
 
 - Member of the ST6 Expert Panel (Computer science and informatics) of the National Science Centre of Poland, 2026.
+- Expert reviewer for the National Science Centre of Poland, 2026.
 - Reviewer of two MSc thesis for the MSc Modeling for Neuronal and Cognitive Systems at Université Côte d'Azur, 2024.
 - Jury member for the PhD scholarship selection of the Neuromod Institute, Université Côte d'Azur, 2024.
 - Project reviewer for the *Idées 2024* call of the *Académie d’Excellence Réseaux, Information et Société numérique*  of Université Côte d'Azur, January-February 2024.
