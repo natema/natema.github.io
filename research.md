@@ -77,7 +77,7 @@ From 2021 to 2024, I also contributed to scientific computing tools for integrat
 
 ## Code
 
-You can find some of my code on [my Github page](https://github.com/natema).
+See the [Software](/software/) page for my current software projects, and [my GitHub page](https://github.com/natema) for more code.
 
 ## Misc
 
