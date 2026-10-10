@@ -26,10 +26,10 @@ The project is at an early stage, and contributions are welcome through its [roa
 
 ## Older projects
 
-* **[WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl)** (2021–2024).
+* **[WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl)** *(co-lead)* (2021–2024).
   An open-source Julia framework for global integrated assessment models, which reimplements the World1–World3 models in a modular way ([JOSS 2024](https://joss.theoj.org/papers/10.21105/joss.05772)).
   We built on it the [Earth4All.jl](https://github.com/worlddynamics/Earth4All.jl) implementation of the Earth for All model, and used it for a sensitivity analysis of that model ([JIE 2024](https://onlinelibrary.wiley.com/doi/10.1111/jiec.13582)).
-* **[KADABRA](https://github.com/natema/kadabra)** (2016).
+* **[KADABRA](https://github.com/natema/kadabra)** *(co-developer)* (2016).
   An adaptive sampling algorithm for approximating betweenness centrality in large networks ([ESA 2016](https://drops.dagstuhl.de/opus/volltexte/2016/6371/), [JEA 2019](https://dl.acm.org/doi/10.1145/3284359)), with Michele Borassi.
   It is included in [NetworKit](https://networkit.github.io/) since version 5.0.
 
