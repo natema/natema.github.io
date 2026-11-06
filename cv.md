@@ -193,6 +193,7 @@ Since 2024, I have **53 reviews certified** by [Web of Science (Publons)](https:
 #### Other Thesis Committees
 
 - External Examiner, Master's Thesis (with Prof. Petra Mutzel as Internal Examiner), Department of Computer Science, University of Bonn, Germany (2026)
+- External member of Sicheng Wei's Individual Follow-up Committee (CSI), EURECOM / EDITE de Paris (2026)
 
 #### Organized Workshops
 
