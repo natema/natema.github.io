@@ -1,6 +1,6 @@
 
 +++
-title = "Conctat"
+title = "Contact"
 
 
 tags = ["syntax", "code"]

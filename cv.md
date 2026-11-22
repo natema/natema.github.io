@@ -25,7 +25,7 @@ tags = ["syntax", "code"]
 
 ### PhD Students
 
-* [Justin Dachille](https://justindachille.github.io/) (UCA), 2026 — 2029 (expected).
+* [Justin Dachille](https://justindachille.github.io/) (UCA), 2026 — 2028 (expected).
 * [Matteo Stromieri](https://matteostromieri.github.io/) (UCA), 2025 — 2028 (expected).
 * [Carlo Castoldi]() (UCA), 2025 — 2028 (expected).
 * [Aakash Kumar](https://aakash-verse.github.io/) (UCA), 2025 — 2028 (expected).
@@ -175,7 +175,7 @@ Since 2024, I have **53 reviews certified** by [Web of Science (Publons)](https:
 #### PhD Thesis Committees
 
 - Member of Filippos Christodoulou's PhD jury.
-  Date of defense: October 27th 2026.
+  Defended on October 27th 2026.
   Institution: GSSI (L'Aquila, Italy).
 
 - Member of Prokopchik Konstantin's PhD jury.
@@ -213,11 +213,11 @@ Together with [Stefano Leucci](https://www.stefanoleucci.com/) and [Luciano Gual
 
 ## Positions
 
-- 2024-27. [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) Chair.
+- 2024-28. [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) Chair.
 - 2025-26. Visiting Professor in Prof. Petra Mutzel's group at [University of Bonn](https://www.uni-bonn.de/en) (long term), and member of the [Lamarr Institute](https://lamarr-institute.org/).
 - 2025\. Visiting Scientist in Murata's lab at [Institute of Science Tokyo](https://www.isct.ac.jp/en) (2 months).
 - 2025\. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
-- 2022-22. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
+- 2021-22. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
 - 2019-20. Visiting Professor at [University of Rome "Tor Vergata"](https://web.uniroma2.it/home/newlang/english) (one semester).
 - Since 2019. [CNRS] researcher (Chargé de Recherche) at the [Université Côte d’Azur][UCA], in the joint [Project-Team COATI][COATI] between [INRIA] and [I3S][I3S].
 - 2016-18. Postdoc at [Max Planck Institute for Informatics][MPII] in Kurt Mehlhorn's Algorithms&Complexity Group.

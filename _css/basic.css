@@ -46,8 +46,9 @@ header .blog-name {
   width: 35%;
   display: inline-block;
   text-align: left;
-  font-size: 18px;
-  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 28px;
+  font-weight: bold;
+  white-space: nowrap;
   padding-top: 10px;
 }
 

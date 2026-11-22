@@ -10,7 +10,7 @@ tags = ["syntax", "code"]
 
 * **ELECTRON joint team between INRIA UniCA and KCL** *(2025-2027)*
   Team leader of the [ELECTRON INRIA joint team](https://team.inria.fr/electron/) with King's College London.
-* **BioSwarm Project - DGA** *(November 2023 – 2027)*
+* **BioSwarm Project - DGA** *(November 2024 – 2027)*
   Principal investigator of a 4-year national research project on algorithms for coordination tasks in drone swarms, funded by the DGA (the French Government Defence procurement and technology agency).
 
 ## Group members

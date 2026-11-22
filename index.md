@@ -1,24 +1,29 @@
-@def title = "Home"
+@def title = "Emanuele Natale | AI for Science"
 @def tags = ["syntax", "code"]
+
+~~~
+<img src="images/ema.png" alt="Emanuele Natale" style="border-radius:100%; float: right; width:320px;  background-color: #0e6b0e; ">
+~~~
+
+**AI researcher: LLMs for science and math, multi-agent systems, computational neuroscience.**\
+CNRS research scientist and [3IA Côte d'Azur][3IA] Chair (INRIA / Université Côte d'Azur).
+
+[GitHub](https://github.com/natema) · [graph-theory-AI](https://github.com/graph-theory-AI) · [Google Scholar](https://scholar.google.com/citations?user=m2P3BH4AAAAJ) · [LinkedIn](https://www.linkedin.com/in/enatale) · [X](https://x.com/emanatale) · [CV](/cv/) · [Contact](/contact/)
 
 ### My research
 
-~~~
-<img src="images/ema.png" style="border-radius:100%; float: right; width:320px;  background-color: #0e6b0e; ">
-~~~
+Recently, I have been building systems on top of frontier language models.
+I led **[Mathpocalypse](https://github.com/graph-theory-AI/mathpocalypse-project)**, in which an open-weight LLM re-checked 646 published mathematics papers for errors, and I co-lead **[Graph-Theory-LLM-Proofs](https://github.com/graph-theory-AI/Graph-Theory-LLM-Proofs)**, in which reasoning models attempt more than a thousand open problems in graph theory and independent AI referees check each claimed proof.
+I also started **[Leanamics](https://formal-dynamics.github.io/leanamics/)**, a Lean 4 library in which AI agents formalize published results on opinion dynamics.
 
-I study fundamental mathematical and algorithmic aspects of intelligent systems, with a focus on efficient neural networks, multi-agent computation, and brain-inspired models.
-My work spans machine learning, computational neuroscience, and distributed systems. 
+More broadly, I study fundamental mathematical and algorithmic aspects of intelligent systems, with a focus on efficient neural networks, multi-agent computation, and brain-inspired models.
+My work spans machine learning, computational neuroscience, and distributed systems.
 
-One line of my work has studied when large neural networks contain sparse subnetworks that preserve target behavior.
-This connects the expressive limits of pruning, approximation guarantees, structured architectures, and quantization.
-The goal is to understand which compression methods preserve capability and which impose fundamental costs.
-
-I give a quick overview of my contributions [here](/research/#research_bio).
+I give a quick overview of my contributions [here](/research/#research_bio). See also my [AI projects & software](/software/).
 
 ### About me
 
-I am a [CNRS] researcher (HDR) at [Université Côte d'Azur][UCA], a [3IA Côte d'Azur][3IA] Chair, a member of the [COATI Project-Team][COATI] between [INRIA] and [I3S][I3S], and the coordinator of the [ELECTRON Associated INRIA Team](https://team.inria.fr/electron/) with King's College London.
+I am a tenured research scientist (HDR) at [CNRS] (the French national research agency), based at [Université Côte d'Azur][UCA], where I hold a Chair at the [3IA Côte d'Azur][3IA] AI institute. I am a member of the [COATI Project-Team][COATI] between [INRIA] and [I3S][I3S], and the coordinator of the [ELECTRON Associated INRIA Team](https://team.inria.fr/electron/) with King's College London.
 Currently, I am a long-term visitor in Prof. Petra Mutzel's group at [University of Bonn](https://www.informatik.uni-bonn.de/en/) and a member of the [Lamarr Institute](https://lamarr-institute.org/).
 
 ~~~

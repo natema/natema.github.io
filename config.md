@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Emanuele Natale"
 website_descr = "Personal website of Emanuele Natale"
-website_url   = "http://enatale.name/"
+website_url   = "https://natema.github.io/"
 +++
 
 <!--
