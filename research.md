@@ -56,18 +56,18 @@ Beyond pruning, I have also worked on various other topics in machine learning t
 
 Since 2017, I have been interested in theoretical and computational neuroscience, starting with my fellowship in the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018).
 A recurring goal has been to bring algorithmic and network-science tools to questions about how nervous systems are organized and how they compute.
-On brain data, I have worked on network-alignment methods for comparing structural connectomes across brain atlases ([BrainAlign21]), temporal null models for small-world structure in fMRI dynamics ([Hyper24]), and Shapley-value methods for identifying functional-connectivity subnetworks that contribute to narrative classification ([ShapFMRI25]).
+On brain data, I have worked on network-alignment methods for comparing structural connectomes across brain atlases ([BrainAlign21]), temporal null models for small-world structure in fMRI dynamics ([Hyper24]), and Shapley-value methods for identifying functional-connectivity subnetworks that contribute to narrative classification ([ShapFMRI25]), and whole-brain models of the critical behavior of brain activity across 103 mammalian species ([BrainCrit26]).
 On the theory side, I have worked on the Assembly Calculus as a model of high-level cognition emerging from Hebbian-style neural and synaptic dynamics ([AC22]).
 
 ### Distributed computation and collective behavior
 
 My original research program is in computational dynamics: simple randomized protocols by which a population of small agents solves global coordination tasks ([CompDyn17], [SurvDyn20]).
 The central question is not only whether these dynamics eventually compute, but how fast, robustly, and with how little memory or communication they do so.
-I have studied consensus, plurality consensus, and rumor spreading under constraints such as noise, adversarial perturbations, many opinions, limited memory, self-stabilization, and tiny messages ([StabCons16], [UndDyn15], [UndState18], [VoteTime16], [MemPlur19], [hMaj25], [SimpleDyn17], [NoisCons19], [NoisyUnd20], [NoisyPull26], [DejaVu26], [ConsBroad20], [MinMsg19]).
+I have studied consensus, plurality consensus, and rumor spreading under constraints such as noise, adversarial perturbations, many opinions, limited memory, self-stabilization, and tiny messages ([StabCons16], [UndDyn15], [UndState18], [VoteTime16], [MemPlur19], [IgnComp17], [hMaj25], [hMajFR26], [SimpleDyn17], [NoisCons19], [NoisyUnd20], [NoisyPull26], [DejaVu26], [ConsBroad20], [MinMsg19]).
 A complementary line of work analyzes how the same simple dynamics can perform distributed clustering or expose network structure, including dynamic stochastic block models, metastability of the 2-Choices dynamics, and community-detection protocols based on local averaging or label propagation ([DistCom15], [MetaStab19], [PPComDet18], [FYPComDet20], [PhaseTrans18]).
 
 This perspective also connects to biological distributed algorithms.
-I have studied limits on reliable information flow in noisy populations ([InfoFlow18]), models of noisy collective decision-making ([Swarm22]), collective dynamics inspired by Physarum's ability to estimate electrical flows ([DistFlow18]), and search by parallel Lévy walks ([Levy22], [Levy3D26]).
+I have studied limits on reliable information flow in noisy populations ([InfoFlow18]), models of noisy collective decision-making ([Swarm22]), collective dynamics inspired by Physarum's ability to estimate electrical flows ([DistFlow18]), and search by parallel Lévy walks ([Levy22]), as well as intermittent Cauchy walks, which achieve optimal three-dimensional search across target shapes and sizes (PNAS 2026, [Levy3D26]).
 More broadly, I have worked on population protocols for order statistics ([OrderStats26]), stochastic load balancing and balls-into-bins processes ([RepBins19], [ParLoad20]), and dynamic expander extraction and rumor spreading under churn ([DistSparse20], [RAES26]).
 
 ## Other past projects
@@ -143,10 +143,12 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [NeuronPrune26]: https://hal.science/hal-05507068
 [QuantPrune26]: https://hal.science/hal-05251970
 [TSPPosEnc26]: https://hal.science/hal-05295614
-[NoisyPull26]: https://hal.science/hal-04778388
+[NoisyPull26]: https://hal.science/hal-05758698
 [OrderStats26]: https://hal.science/hal-05548829
 [Levy3D26]: https://hal.science/hal-05551262
 [DejaVu26]: https://hal.science/hal-05585653
 [LSFSphere26]: https://hal.science/hal-05609665
 [LogitComp26]: https://hal.science/hal-05636948
 [Hopfield26]: https://hal.science/hal-05631355
+[BrainCrit26]: https://hal.science/hal-05864435
+[hMajFR26]: https://hal.science/hal-05864349
