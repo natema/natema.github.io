@@ -1,4 +1,4 @@
-Sitemap: https://natema.github.io/sitemap.xml
+Sitemap: https://enatale.name/sitemap.xml
 
 User-agent: *
 Disallow:
