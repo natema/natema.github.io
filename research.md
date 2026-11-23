@@ -67,7 +67,7 @@ I have studied consensus, plurality consensus, and rumor spreading under constra
 A complementary line of work analyzes how the same simple dynamics can perform distributed clustering or expose network structure, including dynamic stochastic block models, metastability of the 2-Choices dynamics, and community-detection protocols based on local averaging or label propagation ([DistCom15], [MetaStab19], [PPComDet18], [FYPComDet20], [PhaseTrans18]).
 
 This perspective also connects to biological distributed algorithms.
-I have studied limits on reliable information flow in noisy populations ([InfoFlow18]), models of noisy collective decision-making ([Swarm22]), collective dynamics inspired by Physarum's ability to estimate electrical flows ([DistFlow18]), and search by parallel Lévy walks ([Levy22]), as well as intermittent Cauchy walks, which achieve optimal three-dimensional search across target shapes and sizes (PNAS 2026, [Levy3D26]).
+I have studied limits on reliable information flow in noisy populations ([InfoFlow18]), models of noisy collective decision-making ([Swarm22]), collective dynamics inspired by Physarum's ability to estimate electrical flows ([DistFlow18]), and search by parallel Lévy walks ([Levy21]), as well as intermittent Cauchy walks, which achieve optimal three-dimensional search across target shapes and sizes (PNAS 2026, [Levy3D26]).
 More broadly, I have worked on population protocols for order statistics ([OrderStats26]), stochastic load balancing and balls-into-bins processes ([RepBins19], [ParLoad20]), and dynamic expander extraction and rumor spreading under churn ([DistSparse20], [RAES26]).
 
 ## Other past projects
@@ -122,7 +122,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [SurvDyn20]: https://dl.acm.org/doi/10.1145/3388392.3388403
 [BrainAlign21]: https://hal.archives-ouvertes.fr/hal-03033777
 [AC22]: https://hal.archives-ouvertes.fr/hal-03479582/
-[Levy22]: https://hal.science/hal-02530253
+[Levy21]: https://hal.science/hal-02530253
 [LTH22]: https://inria.hal.science/hal-03548226
 [Swarm22]: https://hal.science/hal-04502507
 [CAID23]: https://hal.science/hal-04328529
