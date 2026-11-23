@@ -122,7 +122,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [SurvDyn20]: https://dl.acm.org/doi/10.1145/3388392.3388403
 [BrainAlign21]: https://hal.archives-ouvertes.fr/hal-03033777
 [AC22]: https://hal.archives-ouvertes.fr/hal-03479582/
-[Levy22]: https://hal.science/hal-03694177
+[Levy22]: https://hal.science/hal-02530253
 [LTH22]: https://inria.hal.science/hal-03548226
 [Swarm22]: https://hal.science/hal-04502507
 [CAID23]: https://hal.science/hal-04328529
