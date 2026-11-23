@@ -101,7 +101,7 @@ Invitation](https://www.rdc.isct.ac.jp/en/news/20250903news/) by the Institute o
 
 ### Project coordination
 
-* **ELECTRON joint team between INRIA UniCA and KCL** *(2025-2027)*
+* **ELECTRON joint team between INRIA UniCA and KCL** *(2025-2026)*
   Team leader of the [ELECTRON INRIA joint team](https://team.inria.fr/electron/) with King's College London.
 
 * **BioSwarm Project - DGA** *(November 2024 – 2027)*
