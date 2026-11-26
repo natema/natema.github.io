@@ -5,7 +5,6 @@
 <img src="images/ema.png" alt="Emanuele Natale" style="border-radius:100%; float: right; width:320px;  background-color: #0e6b0e; ">
 ~~~
 
-**AI researcher: LLMs for science and math, multi-agent systems, computational neuroscience.**\
 CNRS research scientist and [3IA Côte d'Azur][3IA] Chair (INRIA / Université Côte d'Azur).
 
 [GitHub](https://github.com/natema) · [graph-theory-AI](https://github.com/graph-theory-AI) · [Google Scholar](https://scholar.google.com/citations?user=m2P3BH4AAAAJ) · [LinkedIn](https://www.linkedin.com/in/enatale) · [X](https://x.com/emanatale) · [CV](/cv/) · [Contact](/contact/)
