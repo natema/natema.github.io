@@ -12,7 +12,7 @@ CNRS research scientist and [3IA Côte d'Azur][3IA] Chair (INRIA / Université C
 ### My research
 
 Recently, I have been building systems on top of frontier language models.
-I led **[Mathpocalypse](https://github.com/graph-theory-AI/mathpocalypse-project)**, in which an open-weight LLM re-checked 646 published mathematics papers for errors, and I co-lead **[Graph-Theory-LLM-Proofs](https://github.com/graph-theory-AI/Graph-Theory-LLM-Proofs)**, in which reasoning models attempt more than a thousand open problems in graph theory and independent AI referees check each claimed proof.
+I led **[Mathpocalypse](https://github.com/graph-theory-AI/mathpocalypse-project)**, in which an open-weight LLM re-checked 646 published mathematics papers for errors, and I co-lead **[Graph-Theory-LLM-Proofs](https://github.com/graph-theory-AI/Graph-Theory-LLM-Proofs)**, in which reasoning models attempt more than a thousand open problems in graph theory.
 I also started **[Leanamics](https://formal-dynamics.github.io/leanamics/)**, a Lean 4 library in which AI agents formalize published results on opinion dynamics.
 
 More broadly, I study fundamental mathematical and algorithmic aspects of intelligent systems, with a focus on efficient neural networks, multi-agent computation, and brain-inspired models.
