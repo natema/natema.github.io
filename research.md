@@ -67,7 +67,7 @@ I have studied consensus, plurality consensus, and rumor spreading under constra
 A complementary line of work analyzes how the same simple dynamics can perform distributed clustering or expose network structure, including dynamic stochastic block models, metastability of the 2-Choices dynamics, and community-detection protocols based on local averaging or label propagation ([DistCom15], [MetaStab19], [PPComDet18], [FYPComDet20], [PhaseTrans18]).
 
 This perspective also connects to biological distributed algorithms.
-I have studied limits on reliable information flow in noisy populations ([InfoFlow18]), models of noisy collective decision-making ([Swarm22]), collective dynamics inspired by Physarum's ability to estimate electrical flows ([DistFlow18]), and search by parallel Lévy walks ([Levy21]), as well as intermittent Cauchy walks, which achieve optimal three-dimensional search across target shapes and sizes (PNAS 2026, [Levy3D26]).
+I have studied limits on reliable information flow in noisy populations ([InfoFlow18]), models of noisy collective decision-making ([Swarm22]), collective dynamics inspired by Physarum's ability to estimate electrical flows ([DistFlow18]), and search by parallel Lévy walks ([Levy21]), as well as intermittent Cauchy walks, which achieve optimal three-dimensional search across target shapes and sizes ([Levy3D26]).
 More broadly, I have worked on population protocols for order statistics ([OrderStats26]), stochastic load balancing and balls-into-bins processes ([RepBins19], [ParLoad20]), and dynamic expander extraction and rumor spreading under churn ([DistSparse20], [RAES26]).
 
 ## Other past projects
